@@ -1,0 +1,15 @@
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\bin\Debug\net6.0\Task23.exe
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\bin\Debug\net6.0\Task23.deps.json
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\bin\Debug\net6.0\Task23.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\bin\Debug\net6.0\Task23.pdb
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\refint\Task23.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.pdb
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task23\obj\Debug\net6.0\ref\Task23.dll

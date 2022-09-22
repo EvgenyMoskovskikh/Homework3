@@ -1,0 +1,15 @@
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\bin\Debug\net6.0\Task21.exe
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\bin\Debug\net6.0\Task21.deps.json
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\bin\Debug\net6.0\Task21.runtimeconfig.json
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\bin\Debug\net6.0\Task21.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\bin\Debug\net6.0\Task21.pdb
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.csproj.AssemblyReference.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.AssemblyInfoInputs.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.AssemblyInfo.cs
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.csproj.CoreCompileInputs.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\refint\Task21.dll
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.pdb
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\Task21.genruntimeconfig.cache
+C:\Users\Hank\Desktop\Разработчик\C#\Homework3\Task21\obj\Debug\net6.0\ref\Task21.dll
